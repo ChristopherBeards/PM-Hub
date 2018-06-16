@@ -1,4 +1,4 @@
-# Lambda School Project Manager Resource Launcher
+# Lambda School Project Manager Resource Hub
 
 Easily access your daily resource locations with this custom built URL Launcher.
 
