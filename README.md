@@ -1,6 +1,6 @@
 # Lambda School Project Manager Resource Hub
 
-Easily access your daily resource locations with this custom built URL Launcher.
+Easily access your daily Project Management resource locations with this custom built URL Launcher.
 
 ## Author
 

@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Lambda School PM Hub",
+  "description": "Easily access your daily resource locations with this custom built URL Launcher.",
+  "version": "1.0.0",
+  "icons": {"128": "icon_128.png"},
+  "browser_action": {
+    "default_icon": "lambda_logo.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
